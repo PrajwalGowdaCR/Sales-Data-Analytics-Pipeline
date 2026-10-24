@@ -51,6 +51,3 @@ Columns: `Order_ID, Order_Date, Customer, Region, Product, Sales, Cost` (+ deriv
 
 ## Tools
 Python · Pandas · MySQL · SQL (Window Functions, CTEs) · Power BI · Excel
-
-## Author
-Tejas Kadam – [LinkedIn](https://linkedin.com/in/tejas-kadam-b0983b2a6)
